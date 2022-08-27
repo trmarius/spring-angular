@@ -2,7 +2,8 @@
 
 
 #backups
-.backup
+frontend.backup
+backend.backup
 
 #github
 .idea
