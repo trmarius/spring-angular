@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiBaseUrl: 'http://mtrufasu.go.ro:8080'
+  apiBaseUrl: 'http://localhost:8080'
 };
 
 /*
